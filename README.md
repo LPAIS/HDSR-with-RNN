@@ -1,2 +1,3 @@
-# ResNet-LSTM-CTC
-A ResNet-LSTM-CTC architecture with Caffe.
+
+A network for handwritten digit string recognition (HDSR) with RNN and CTC in Caffe.
+ 
